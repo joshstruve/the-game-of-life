@@ -4,7 +4,7 @@ Learn more about [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27
 
 ## Instructions
 
-Run `npm install` and then `npm start`. Once the app opens in your browswer, press the Randomize button to create an initial configuration and then press Play to see how it evolves.
+Run `npm install` and then `npm start`. Once the app opens in your browser, press the Randomize button to create an initial configuration and then press Play to see how it evolves.
 
 ## Credits
 

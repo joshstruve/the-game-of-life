@@ -1,5 +1,6 @@
 {
   "name": "react-gameoflife",
+  "homepage": "https://github.com/joshstruve/the-game-of-life",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,5 +13,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
